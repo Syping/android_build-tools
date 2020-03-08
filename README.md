@@ -3,7 +3,7 @@ Scripts and patches to build ROMs for Samsung Galaxy S II Plus (GT-I9105 and GT-
 
 How to get:
 -------------
-Run "git clone https://github.com/andixlm/android_build-tools_galaxys2plus-common build-tools" in root of ROM sources directory.
+Run "git clone https://github.com/Syping/android_build-tools_galaxys2plus-common build-tools" in root of ROM sources directory.
 
 Description of scripts:
 -------------
